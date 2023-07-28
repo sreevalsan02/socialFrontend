@@ -1,0 +1,13 @@
+/* .feed{
+    flex: 4;
+} */
+.feed {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+.feedWrapper{
+    padding: 20px;
+    width: 70%;
+}
